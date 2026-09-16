@@ -1,0 +1,6 @@
+{
+  "name": "NIR-RAKSHA",
+  "description": "AI-Based Early Warning & Landslide Risk Monitoring System in North Eastern Region (NER) of India",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

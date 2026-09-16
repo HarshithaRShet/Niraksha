@@ -1,0 +1,403 @@
+{
+  "locations": [
+    {
+      "id": "NER-SK-01",
+      "name": "Dikchu - Singtam Highway Corridor (NH-10)",
+      "district": "East Sikkim & Pakyong",
+      "state": "Sikkim",
+      "lat": 27.3789,
+      "lng": 88.5284,
+      "elevation": 1420.0,
+      "slope": 48.5,
+      "rainfall_current_mm": 148.2,
+      "rainfall_7d_cumulative_mm": 382.0,
+      "forecast_rainfall_48h_mm": 92.5,
+      "soil_moisture_pct": 88.4,
+      "historical_events_count": 14,
+      "exposed_population": 8450,
+      "vulnerable_villages": [
+        "Lower Dikchu",
+        "Rakdong Tintek",
+        "Singtam Outskirts"
+      ],
+      "road_name": "NH-10 (Sikkim Lifeline Corridor)",
+      "road_criticality": "National Highway",
+      "critical_infrastructure": [
+        "Teesta Hydro Dam Stage V Substation",
+        "Army Logistics Convoy Bridge 04"
+      ],
+      "current_risk_score": 99,
+      "current_risk_level": "CRITICAL",
+      "last_updated": "2026-09-16 14:29:12.460505",
+      "verification_status": "Field Verified"
+    },
+    {
+      "id": "NER-MG-02",
+      "name": "Cherrapunji - Shella Escarpment & Mawkdok Valley",
+      "district": "East Khasi Hills",
+      "state": "Meghalaya",
+      "lat": 25.2986,
+      "lng": 91.7323,
+      "elevation": 1290.0,
+      "slope": 42.0,
+      "rainfall_current_mm": 212.0,
+      "rainfall_7d_cumulative_mm": 520.4,
+      "forecast_rainfall_48h_mm": 130.0,
+      "soil_moisture_pct": 94.2,
+      "historical_events_count": 22,
+      "exposed_population": 5200,
+      "vulnerable_villages": [
+        "Mawkdok",
+        "Laitkynsew",
+        "Nongkroh"
+      ],
+      "road_name": "SH-5 Cherra-Shella Road",
+      "road_criticality": "State Strategic Border",
+      "critical_infrastructure": [
+        "Mawkdok Bridge Pier #2",
+        "High-tension Power Pylon 11B"
+      ],
+      "current_risk_score": 87,
+      "current_risk_level": "CRITICAL",
+      "last_updated": "2026-09-16 13:48:26.038082",
+      "verification_status": "Action In Progress"
+    },
+    {
+      "id": "NER-AS-03",
+      "name": "Jatinga - Haflong Pass Hill Section",
+      "district": "Dima Hasao",
+      "state": "Assam",
+      "lat": 25.1235,
+      "lng": 93.0315,
+      "elevation": 980.0,
+      "slope": 38.0,
+      "rainfall_current_mm": 115.5,
+      "rainfall_7d_cumulative_mm": 290.8,
+      "forecast_rainfall_48h_mm": 70.0,
+      "soil_moisture_pct": 82.1,
+      "historical_events_count": 18,
+      "exposed_population": 12400,
+      "vulnerable_villages": [
+        "Jatinga Valley",
+        "Mahur Trackside",
+        "Lower Haflong"
+      ],
+      "road_name": "NH-54E Lumding-Silchar Mountain Highway",
+      "road_criticality": "National Highway",
+      "critical_infrastructure": [
+        "NFR Hill Railway Tunnel #7",
+        "Barak Valley Optical Fiber Trunk"
+      ],
+      "current_risk_score": 79,
+      "current_risk_level": "HIGH",
+      "last_updated": "2026-09-16 13:48:26.038082",
+      "verification_status": "Field Verified"
+    },
+    {
+      "id": "NER-AR-04",
+      "name": "Sela Pass Approach & Bhalukpong-Tawang Axis",
+      "district": "West Kameng & Tawang",
+      "state": "Arunachal Pradesh",
+      "lat": 27.5034,
+      "lng": 92.1038,
+      "elevation": 2850.0,
+      "slope": 52.0,
+      "rainfall_current_mm": 88.0,
+      "rainfall_7d_cumulative_mm": 210.0,
+      "forecast_rainfall_48h_mm": 65.0,
+      "soil_moisture_pct": 79.5,
+      "historical_events_count": 12,
+      "exposed_population": 4100,
+      "vulnerable_villages": [
+        "Dirang Basti",
+        "Senge Village",
+        "Baisakhi Military Camp"
+      ],
+      "road_name": "NH-13 Trans-Arunachal Strategic Highway",
+      "road_criticality": "National Highway",
+      "critical_infrastructure": [
+        "Sela Tunnel South Portal Drainage",
+        "BRO Project Vartak Machinery Depot"
+      ],
+      "current_risk_score": 74,
+      "current_risk_level": "HIGH",
+      "last_updated": "2026-09-16 13:48:26.038082",
+      "verification_status": "Field Verified"
+    },
+    {
+      "id": "NER-NL-05",
+      "name": "Phesama Landslip Zone (NH-29 Kohima-Dimapur)",
+      "district": "Kohima",
+      "state": "Nagaland",
+      "lat": 25.6421,
+      "lng": 94.1124,
+      "elevation": 1440.0,
+      "slope": 36.5,
+      "rainfall_current_mm": 94.5,
+      "rainfall_7d_cumulative_mm": 240.2,
+      "forecast_rainfall_48h_mm": 54.0,
+      "soil_moisture_pct": 76.8,
+      "historical_events_count": 27,
+      "exposed_population": 9800,
+      "vulnerable_villages": [
+        "Phesama Upper",
+        "Kigwema Ridge",
+        "New Reserve Colony"
+      ],
+      "road_name": "NH-29 Asian Highway 1 Lifeline",
+      "road_criticality": "National Highway",
+      "critical_infrastructure": [
+        "BPCL Fuel Transit Pipeline",
+        "State Grid 132kV Sub-Transmission"
+      ],
+      "current_risk_score": 71,
+      "current_risk_level": "HIGH",
+      "last_updated": "2026-09-16 13:48:26.038082",
+      "verification_status": "Urgent Inspection Required"
+    },
+    {
+      "id": "NER-MN-06",
+      "name": "Noney - Tupul Railway Cutting Zone",
+      "district": "Noney",
+      "state": "Manipur",
+      "lat": 24.8167,
+      "lng": 93.6542,
+      "elevation": 720.0,
+      "slope": 44.0,
+      "rainfall_current_mm": 64.0,
+      "rainfall_7d_cumulative_mm": 165.0,
+      "forecast_rainfall_48h_mm": 45.0,
+      "soil_moisture_pct": 68.0,
+      "historical_events_count": 16,
+      "exposed_population": 3600,
+      "vulnerable_villages": [
+        "Marangching",
+        "Tupul Yard",
+        "Awangkhul"
+      ],
+      "road_name": "NH-37 Imphal - Jiribam Highway",
+      "road_criticality": "National Highway",
+      "critical_infrastructure": [
+        "Ijai River Dam Barrier (Flash Flood Risk)",
+        "Pier 134 Tallest Rail Bridge"
+      ],
+      "current_risk_score": 58,
+      "current_risk_level": "WATCH",
+      "last_updated": "2026-09-16 13:48:26.038082",
+      "verification_status": "Field Verified"
+    },
+    {
+      "id": "NER-MZ-07",
+      "name": "Hunthar Ridge & Chite Veng Slopes",
+      "district": "Aizawl",
+      "state": "Mizoram",
+      "lat": 23.7412,
+      "lng": 92.7158,
+      "elevation": 1132.0,
+      "slope": 41.0,
+      "rainfall_current_mm": 48.0,
+      "rainfall_7d_cumulative_mm": 130.0,
+      "forecast_rainfall_48h_mm": 35.0,
+      "soil_moisture_pct": 61.2,
+      "historical_events_count": 21,
+      "exposed_population": 15200,
+      "vulnerable_villages": [
+        "Hunthar Ward",
+        "Bawngkawn",
+        "Durtlang Leitan"
+      ],
+      "road_name": "NH-54 (Silchar - Aizawl Entry)",
+      "road_criticality": "National Highway",
+      "critical_infrastructure": [
+        "Aizawl Urban Water Main Intake",
+        "Civil Hospital Access Route"
+      ],
+      "current_risk_score": 46,
+      "current_risk_level": "WATCH",
+      "last_updated": "2026-09-16 13:48:26.038082",
+      "verification_status": "Unverified"
+    },
+    {
+      "id": "NER-TR-08",
+      "name": "Baramura Gas Corridor & Champaknagar Slopes",
+      "district": "West Tripura & Khowai",
+      "state": "Tripura",
+      "lat": 23.8542,
+      "lng": 91.5642,
+      "elevation": 320.0,
+      "slope": 22.0,
+      "rainfall_current_mm": 22.0,
+      "rainfall_7d_cumulative_mm": 55.0,
+      "forecast_rainfall_48h_mm": 18.0,
+      "soil_moisture_pct": 42.0,
+      "historical_events_count": 5,
+      "exposed_population": 4300,
+      "vulnerable_villages": [
+        "Champaknagar",
+        "Barmura Hill Colony"
+      ],
+      "road_name": "NH-8 (Tripura Main Arterial)",
+      "road_criticality": "National Highway",
+      "critical_infrastructure": [
+        "ONGC Gas Compression Trunk 1",
+        "Thermal Power Plant Evacuation Line"
+      ],
+      "current_risk_score": 24,
+      "current_risk_level": "LOW",
+      "last_updated": "2026-09-16 13:48:26.038082",
+      "verification_status": "Field Verified"
+    }
+  ],
+  "reports": [
+    {
+      "id": "REP-2026-081",
+      "location_id": "NER-SK-01",
+      "location_name": "Dikchu - Singtam Highway Corridor (NH-10)",
+      "lat": 27.3802,
+      "lng": 88.5295,
+      "reporter_name": "Capt. R. Sharma",
+      "reporter_role": "BRO Project Swastik Executive Engineer",
+      "observations": {
+        "cracks": true,
+        "soil_movement": true,
+        "debris": true,
+        "road_blockage": true
+      },
+      "image_name": "NH10_dikchu_tension_crack_km42.jpg",
+      "notes": "Severe tension cracks opening up at Km 42.2 on NH-10. Heavy silt and rock fragments blocking eastern lane. Immediate earthmover and diversion required.",
+      "created_at": "2026-09-16 13:48:26.038082",
+      "synced_online": true,
+      "risk_adjusted_delta": 12
+    },
+    {
+      "id": "REP-2026-082",
+      "location_id": "NER-MG-02",
+      "location_name": "Cherrapunji - Shella Escarpment & Mawkdok Valley",
+      "lat": 25.2995,
+      "lng": 91.7335,
+      "reporter_name": "D. Sangma",
+      "reporter_role": "District Disaster Management Officer",
+      "observations": {
+        "cracks": true,
+        "soil_movement": true,
+        "debris": true,
+        "road_blockage": false
+      },
+      "image_name": "mawkdok_scarp_fissure.jpg",
+      "notes": "Heavy continuous precipitation for past 36 hours. Water seepage gushing out from sandstone strata. High risk of debris flow towards lower valley hamlets.",
+      "created_at": "2026-09-16 13:48:26.038082",
+      "synced_online": true,
+      "risk_adjusted_delta": 10
+    },
+    {
+      "id": "REP-2026-6264",
+      "location_id": "NER-SK-01",
+      "location_name": "Dikchu - Singtam Highway Corridor (NH-10)",
+      "lat": 27.382,
+      "lng": 88.531,
+      "reporter_name": "Major A. Gogoi",
+      "reporter_role": "NDRF 1st Bn Team Commander",
+      "observations": {
+        "cracks": true,
+        "soil_movement": true,
+        "debris": true,
+        "road_blockage": true
+      },
+      "image_name": "dikchu_crown_crack_field.jpg",
+      "notes": "Verified fresh shear failure line widening near Culvert 14.",
+      "created_at": "2026-09-16 13:48:26.172210",
+      "synced_online": true,
+      "risk_adjusted_delta": 17
+    },
+    {
+      "id": "REP-2026-8EF3",
+      "location_id": "NER-SK-01",
+      "location_name": "Dikchu - Singtam Highway Corridor (NH-10)",
+      "lat": 27.382,
+      "lng": 88.531,
+      "reporter_name": "Major A. Gogoi",
+      "reporter_role": "NDRF 1st Bn Team Commander",
+      "observations": {
+        "cracks": true,
+        "soil_movement": true,
+        "debris": true,
+        "road_blockage": true
+      },
+      "image_name": "dikchu_crown_crack_field.jpg",
+      "notes": "Verified fresh shear failure line widening near Culvert 14.",
+      "created_at": "2026-09-16 14:29:12.460321",
+      "synced_online": true,
+      "risk_adjusted_delta": 17
+    }
+  ],
+  "alerts": [
+    {
+      "id": "ALT-2026-001",
+      "location_id": "NER-SK-01",
+      "location_name": "Dikchu - Singtam Highway Corridor (NH-10)",
+      "risk_level": "CRITICAL",
+      "severity": "Extreme",
+      "language": "English",
+      "title": "URGENT DISASTER WARNING: Extreme Landslide Threat on NH-10 Sikkim Corridor",
+      "message": "Immediate danger of slope collapse along Dikchu-Singtam axis. 24h rainfall (148.2mm) has triggered critical soil saturation. Civilian evacuation ordered for lower hamlets. Avoid NH-10.",
+      "timestamp": "2026-09-16 13:48:26.038082",
+      "delivery_channels": {
+        "sms_broadcast": "Broadcasted to 8,450 Local SIMs",
+        "cap_ndma_feed": "NDMA CAP v1.2 Live",
+        "siren_relay": "Armed"
+      },
+      "author": "Sikkim State Disaster Management Authority (SSDMA)"
+    },
+    {
+      "id": "ALT-2026-002",
+      "location_id": "NER-MG-02",
+      "location_name": "Cherrapunji - Shella Escarpment & Mawkdok Valley",
+      "risk_level": "CRITICAL",
+      "severity": "Extreme",
+      "language": "English",
+      "title": "EMERGENCY EVACUATION NOTICE: Mawkdok Valley Escarpment",
+      "message": "Continuous torrential cloudburst has saturated Khasi Hills escarpment (212mm). Active rockfalls and soil slips reported. Downstream settlements are advised to move to designated civil defense shelters immediately.",
+      "timestamp": "2026-09-16 13:48:26.038082",
+      "delivery_channels": {
+        "sms_broadcast": "Broadcasted to 5,200 Local SIMs",
+        "cap_ndma_feed": "NDMA CAP v1.2 Live",
+        "siren_relay": "Armed"
+      },
+      "author": "East Khasi Hills DDMA Emergency Operations Room"
+    },
+    {
+      "id": "ALT-2026-A41",
+      "location_id": "NER-SK-01",
+      "location_name": "Dikchu - Singtam Highway Corridor (NH-10)",
+      "risk_level": "CRITICAL",
+      "severity": "Extreme",
+      "language": "Assamese",
+      "title": "\u099c\u09f0\u09c1\u09f0\u09c0 \u09b8\u09a4\u09f0\u09cd\u0995\u09ac\u09be\u09a3\u09c0: \u099a\u09f0\u09ae \u09ad\u09c2\u09ae\u09bf\u09b8\u09cd\u0996\u09b2\u09a8\u09f0 \u0986\u09b6\u0982\u0995\u09be",
+      "message": "NH-10 \u09a1\u09bf\u0995\u099a\u09c1 \u0985\u099e\u09cd\u099a\u09b2\u09a4 \u09a7\u09be\u09f0\u09be\u09b8\u09be\u09f0 \u09ac\u09f0\u09b7\u09c1\u09a3\u09f0 \u09ac\u09be\u09ac\u09c7 \u09ad\u09c2\u09ae\u09bf\u09b8\u09cd\u0996\u09b2\u09a8\u09f0 \u09a4\u09c0\u09ac\u09cd\u09f0 \u0986\u09b6\u0982\u0995\u09be\u0964 \u09b8\u09c1\u09f0\u0995\u09cd\u09b7\u09bf\u09a4 \u0986\u09b6\u09cd\u09f0\u09af\u09bc\u09b8\u09cd\u09a5\u09b2\u09b2\u09c8 \u09b8\u09cd\u09a5\u09be\u09a8\u09be\u09a8\u09cd\u09a4\u09f0\u09bf\u09a4 \u09b9\u0993\u0995\u0964",
+      "timestamp": "2026-09-16 13:48:26.201041",
+      "delivery_channels": {
+        "sms_broadcast": "Broadcasted to 8,450 Local SIMs",
+        "cap_ndma_feed": "NDMA CAP v1.2 Active Relay",
+        "siren_relay": "Armed & Triggered"
+      },
+      "author": "Sikkim State Disaster Management Authority"
+    },
+    {
+      "id": "ALT-2026-434",
+      "location_id": "NER-SK-01",
+      "location_name": "Dikchu - Singtam Highway Corridor (NH-10)",
+      "risk_level": "CRITICAL",
+      "severity": "Extreme",
+      "language": "Assamese",
+      "title": "\u099c\u09f0\u09c1\u09f0\u09c0 \u09b8\u09a4\u09f0\u09cd\u0995\u09ac\u09be\u09a3\u09c0: \u099a\u09f0\u09ae \u09ad\u09c2\u09ae\u09bf\u09b8\u09cd\u0996\u09b2\u09a8\u09f0 \u0986\u09b6\u0982\u0995\u09be",
+      "message": "NH-10 \u09a1\u09bf\u0995\u099a\u09c1 \u0985\u099e\u09cd\u099a\u09b2\u09a4 \u09a7\u09be\u09f0\u09be\u09b8\u09be\u09f0 \u09ac\u09f0\u09b7\u09c1\u09a3\u09f0 \u09ac\u09be\u09ac\u09c7 \u09ad\u09c2\u09ae\u09bf\u09b8\u09cd\u0996\u09b2\u09a8\u09f0 \u09a4\u09c0\u09ac\u09cd\u09f0 \u0986\u09b6\u0982\u0995\u09be\u0964 \u09b8\u09c1\u09f0\u0995\u09cd\u09b7\u09bf\u09a4 \u0986\u09b6\u09cd\u09f0\u09af\u09bc\u09b8\u09cd\u09a5\u09b2\u09b2\u09c8 \u09b8\u09cd\u09a5\u09be\u09a8\u09be\u09a8\u09cd\u09a4\u09f0\u09bf\u09a4 \u09b9\u0993\u0995\u0964",
+      "timestamp": "2026-09-16 14:29:12.483754",
+      "delivery_channels": {
+        "sms_broadcast": "Broadcasted to 8,450 Local SIMs",
+        "cap_ndma_feed": "NDMA CAP v1.2 Active Relay",
+        "siren_relay": "Armed & Triggered"
+      },
+      "author": "Sikkim State Disaster Management Authority"
+    }
+  ]
+}
